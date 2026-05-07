@@ -142,8 +142,4 @@ This MCP server pairs with the [AI Code Reviewer API](https://github.com/Medhavi
 
 ---
 
-## Author
-
-Medhavi Math — Backend Developer transitioning into AI Engineering
-- Studying for Claude Certified Architect (CCA) exam
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn](https://linkedin.com/in/medhavi-math-b8715321a)
