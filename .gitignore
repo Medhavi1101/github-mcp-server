@@ -1,0 +1,6 @@
+mcpenv312/
+mcpenv/
+venv/
+.env
+__pycache__/
+*.pyc
